@@ -24,7 +24,8 @@ glioma ROIs.
 ![Alt Text](extra/get2.jpg)
 ## GSNet-based web app
 To apply our model as a medical imaging tool, we have compressed the entire pipeline in an easy-to-use web-based application (web app) which takes in input as 3D MRI images in the format of ‘.nii’ files. With the input of FLAIR, t1, t1ce, and t2 MRI scans, our web app can produce the corresponding segmentation masks for WT, TC, and ET regions and further save them locally in the ‘.nii’ file format in under 20 seconds. Due to the lightweight size, the web app creates the segmentation masks very quickly. The pre-trained weight file corresponding to this web app created from training with the BraTS 2020 dataset is around 24.7MB. The total size of the web app including the weight file is 36.8MB. The outputs which are saved as ‘.nii’ files are around 8MB each so 24MB in total (3 outputs for 3 separate regions). We have deployed the web app on our local system, which runs through a web browser at `https://127.0.0.1:5000`. The web app creates the outputs and saves them in any local folder. The corresponding indication is shown (the red-marked lines at the bottom) on the next page of the web app. We have visualized the saved outputs using the software ITK-SNAP. An example of the saved outputs is shown below. The full installation process along with the necessary files is provided at the [GitHub link](https://github.com/006jawad/GSNet_/tree/main/WebApp).
-![Alt Text](Visualizing the saved segmentation masks.gif)
+
+![Alt Text](extra/Visualizingthesavedsegmentationmasks.gif)
 *****************************************************************************************************************************************
 # Citation Text
 For attribution, please follow the citation format provided below:<br>
