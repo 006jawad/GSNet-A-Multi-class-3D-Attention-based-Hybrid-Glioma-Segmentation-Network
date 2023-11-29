@@ -1,3 +1,5 @@
+![Alt Text](concpt.png)
+
 ## Abstract
 In modern neuro-oncology, computer-aided biomedical image retrieval (CBIR) tools
 have recently gained significant popularity due to their quick and easy usage and high-performance
