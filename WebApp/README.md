@@ -1,3 +1,5 @@
+The web-app takes in input as 3D MRI images in the format of ‘.nii’ files. With the input of FLAIR, t1, t1ce, and t2 MRI scans, our web app can produce the corresponding segmentation masks for WT, TC, and ET regions and further save them locally in the ‘.nii’ file format in under 20 seconds.
+
 ![Alt Text](BrainTumorSegmentationusingthewebapplication.gif)
 ## Requirements
 The following modules are necessary for running this web application:<br>
@@ -43,7 +45,6 @@ Start the Web App
 ```bash
   flask run
 ```
-The web-app takes in input as 3D MRI images in the format of ‘.nii’ files. With the input of FLAIR, t1, t1ce, and t2 MRI scans, our web app can produce the corresponding segmentation masks for WT, TC, and ET regions and further save them locally in the ‘.nii’ file format in under 20 seconds.
 
 
 
