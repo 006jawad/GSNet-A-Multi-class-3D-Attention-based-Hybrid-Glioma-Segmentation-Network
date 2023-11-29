@@ -1,4 +1,4 @@
-![Alt Text](concpt.png)
+# GSNet: a multi-class 3D attention-based hybrid glioma segmentation network
 
 ## Abstract
 In modern neuro-oncology, computer-aided biomedical image retrieval (CBIR) tools
@@ -16,3 +16,5 @@ tumor, tumor core, and enhancing tumor classes. Our model produces significantly
 across all occasions and is capable of dealing with newer data, despite training with imbalanced
 datasets. In comparison to other articles, our model outperforms some of the state-of-the-art
 scores designating it to be suitable as a reliable CBIR tool for necessary medical usage.
+
+![Alt Text](extra/converted.gif)
