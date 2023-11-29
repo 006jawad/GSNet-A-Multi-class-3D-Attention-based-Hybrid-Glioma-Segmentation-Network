@@ -1,6 +1,3 @@
-![Alt Text](extra/BrainTumorSegmentationusingthewebapplication.gif)
-
-
 ## Requirements
 The following modules are necessary for running this web application:<br>
 - albumentations==1.3.0
