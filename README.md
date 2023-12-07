@@ -33,30 +33,34 @@ For attribution, please follow the citation format provided below:<br>
 Md Tasnim Jawad, Ashfak Yeafi, and Kalyan Kumar Halder, "GSNet: a multi-class 3D attention-based hybrid glioma segmentation network," Opt. Express 31, 40881-40906 (2023)
 
 # BibTeX
-@article{jawad2023gsnet,<br>
-  title={GSNet: a multi-class 3D attention-based hybrid glioma segmentation network},<br>
-  author={Jawad, Md Tasnim and Yeafi, Ashfak and Halder, Kalyan Kumar},<br>
-  journal={Optics Express},<br>
-  volume={31},<br>
-  number={24},<br>
-  pages={40881--40906},<br>
-  year={2023},<br>
-  publisher={Optica Publishing Group}<br>
+```bibtex
+@article{jawad2023gsnet,
+  title={GSNet: a multi-class 3D attention-based hybrid glioma segmentation network},
+  author={Jawad, Md Tasnim and Yeafi, Ashfak and Halder, Kalyan Kumar},
+  journal={Optics Express},
+  volume={31},
+  number={24},
+  pages={40881--40906},
+  year={2023},
+  publisher={Optica Publishing Group}
 }
+```
 
 Or, 
 
-@article{Jawad:23,<br>
-author = {Md Tasnim Jawad and Ashfak Yeafi and Kalyan Kumar Halder},<br>
-journal = {Opt. Express},<br>
-keywords = {Edge detection; Genetic algorithms; Image restoration; Mathematical methods; Segmentation; Spatial resolution},<br>
-number = {24},<br>
-pages = {40881--40906},<br>
-publisher = {Optica Publishing Group},<br>
-title = {GSNet: a multi-class 3D attention-based hybrid glioma segmentation network},<br>
-volume = {31},<br>
-month = {Nov},<br>
-year = {2023},<br>
-url = {[https://opg.optica.org/oe/abstract.cfm?URI=oe-31-24-40881](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-40881)https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-40881},<br>
-doi = {10.1364/OE.499054},<br>
+```bibtex
+@article{Jawad:23,
+author = {Md Tasnim Jawad and Ashfak Yeafi and Kalyan Kumar Halder},
+journal = {Opt. Express},
+keywords = {Edge detection; Genetic algorithms; Image restoration; Mathematical methods; Segmentation; Spatial resolution},
+number = {24},
+pages = {40881--40906},
+publisher = {Optica Publishing Group},
+title = {GSNet: a multi-class 3D attention-based hybrid glioma segmentation network},
+volume = {31},
+month = {Nov},
+year = {2023},
+url = {[https://opg.optica.org/oe/abstract.cfm?URI=oe-31-24-40881](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-40881)https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-40881},
+doi = {10.1364/OE.499054},
 }
+```
