@@ -1,6 +1,6 @@
 # GSNet: a multi-class 3D attention-based hybrid glioma segmentation network
-`Optics Express Vol. 31, Issue 24, pp. 40881-40906 (2023)`<br>
-`DOI:`https://doi.org/10.1364/OE.499054
+<!-- `Optics Express Vol. 31, Issue 24, pp. 40881-40906 (2023)`<br>
+`DOI:`https://doi.org/10.1364/OE.499054  -->
 
 ## Our contribution
 We have developed a hybrid end-to-end multi-class 3D CNN-based segmentation network named
